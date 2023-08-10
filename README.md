@@ -1,3 +1,4 @@
+#FACE AND DIGIT CLASSICATION
 Dataset: MNIST Face and Digit Data
 
 Methodology:
